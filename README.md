@@ -18,6 +18,6 @@ This program contained a machine code routine embedded in the data that used an 
 
 ## Converting the listing
 
-To get my listing onto the Apple ][ used the utility [AppleCommander](https://applecommander.github.io/). Although this program has lots of ways to export files from disk images, to get files onto it, you need to match the Apple's ASCII file format with the high bit set on each byte.
+To get my listing onto the Apple ][ I used the utility [AppleCommander](https://applecommander.github.io/). Although this program has lots of ways to export files from disk images, to get files onto it, you need to match the Apple's ASCII file format with the high bit set on each byte.
 
 I used a python script to convert a standard text file to Apple's ASCII format.
